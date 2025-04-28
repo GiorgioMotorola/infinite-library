@@ -8,7 +8,7 @@
     "dateFinished": "02/28/2025",
     "pageCount": 416,
     "wordCount": 145000,
-    "image": "/public/jurassic-park.jpg",
+    "image": "./jurassic-park.jpg",
     "ranking": 5,
     "plot": "A breakthrough in genetic engineering leads to the development of a technique for recovering and cloning dinosaur DNA, a method that brings about the creation of Jurassic Park, a tourist attraction populated by creatures extinct for eons.",
     "thoughts": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -22,7 +22,7 @@
     "dateFinished": "03/08/2025",
     "pageCount": 384,
     "wordCount": 110000,
-    "image": "/public/blindsight.jpg",
+    "image": "./blindsight.jpg",
     "ranking": 3,
     "plot": "A very small crew of variously augmented humans (and one vampire) are sent to investigate and possibly initiate first contact after Earth is conspicuously noticed. ",
     "thoughts": ""
@@ -36,7 +36,7 @@
     "dateFinished": "03/09/2025",
     "pageCount": 304,
     "wordCount": 85000,
-    "image": "/public/rum-punch.jpg",
+    "image": "./rum-punch.jpg",
     "ranking": 4,
     "plot": "Ordell “Whitebread” Robbie makes a fine living selling illegal high-powered weaponry to the wrong people. Jackie Burke couriers Ordell’s profits from Freeport to Miami. But the feds are on to Jackie—and now the aging but still hot flight attendant will have to do prison time or play ball, which makes her a prime “loose end” that Ordell needs to tie up permanently. Jackie, however, has other options. And with the help of Max Cherry—an honest but disgruntled bail bondsman looking to get out—she could even end up with a serious nest egg in the process.",
     "thoughts": ""
@@ -50,7 +50,7 @@
     "dateFinished": "03/27/2025",
     "pageCount": 843,
     "wordCount": 360000,
-    "image": "/public/lonesome-dove.jpg",
+    "image": "./lonesome-dove.jpg",
     "ranking": 5,
     "plot": "Two former Texas Rangers embark on an epic cattle drive from Texas to Montana.",
     "thoughts": ""
@@ -64,7 +64,7 @@
     "dateFinished": "04/03/2025",
     "pageCount": 337,
     "wordCount": 140000,
-    "image": "/public/blood-meridian.jpg",
+    "image": "./blood-meridian.jpg",
     "ranking": 5,
     "plot": "A young man journeys through the violent landscape of the American West with a dangerous gang of scalp hunters.",
     "thoughts": ""
@@ -78,7 +78,7 @@
     "dateFinished": "04/07/2025",
     "pageCount": 336,
     "wordCount": 95000,
-    "image": "/public/get-shorty.jpg",
+    "image": "./get-shorty.jpg",
     "ranking": 3,
     "plot": "A Miami mobster goes to Hollywood to collect a debt and finds himself drawn into the movie business.",
     "thoughts": ""
@@ -92,7 +92,7 @@
     "dateFinished": "04/15/2025",
     "pageCount": 849,
     "wordCount": 315000,
-    "image": "/public/11-22-63.jpg",
+    "image": "./11-22-63.jpg",
     "ranking": 4,
     "plot": "A high school English teacher travels back in time to try and prevent the assassination of John F. Kennedy.",
     "thoughts": ""
@@ -106,7 +106,7 @@
     "dateFinished": "04/17/2025",
     "pageCount": 320,
     "wordCount": 75000,
-    "image": "/public/no-country.jpg",
+    "image": "./no-country.jpg",
     "ranking": 4,
     "plot": "A hunter finds a fortune in cash and becomes the target of a relentless and enigmatic killer.",
     "thoughts": ""
