@@ -110,5 +110,33 @@
     "ranking": 4,
     "plot": "A hunter finds a fortune in cash and becomes the target of a relentless and enigmatic killer.",
     "thoughts": ""
+  },
+  {
+    "entry": 9,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure",
+    "dateStarted": "04/18/2025",
+    "dateFinished": "04/29/2025",
+    "pageCount": 1243,
+    "wordCount": 464000,
+    "image": "./count-monte.jpg",
+    "ranking": 4,
+    "plot": "Thrown in prison for a crime he has not committed, Edmond Dantès is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also to use the treasure to plot the destruction of the three men responsible for his incarceration. Dumas’ epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success when it was first serialized in the 1840s.",
+    "thoughts": ""
+  },
+  {
+    "entry": 10,
+    "title": "All The Pretty Horses",
+    "author": "Cormac McCarthy",
+    "genre": "Western, Adventure",
+    "dateStarted": "04/30/2025",
+    "dateFinished": "05/04/2025",
+    "pageCount": 320,
+    "wordCount": 98000,
+    "image": "./pretty-horses.jpg",
+    "ranking": 5,
+    "plot": "Teenager John Grady Cole, the last of a long line of Texas ranchers, has nothing left to stay for. Across the border Mexico beckons—beautiful and desolate, rugged and cruelly civilized. With neighbor Rawlins, and scruffy boy, he rides toward an idyllic, sometimes comic adventure, to a place where dreams are paid for in blood.",
+    "thoughts": ""
   }
 ]
